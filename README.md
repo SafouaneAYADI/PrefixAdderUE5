@@ -1,4 +1,4 @@
-# PrefixAdderUE5 - 4 lines
+# PrefixAdderUE5
  
 PrefixAdderUE5 is a utility for Unreal Engine 5 that allows you to easily add a prefix to the names of your project's assets. Follow the steps below to use it:
  
